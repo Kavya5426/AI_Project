@@ -1,0 +1,1 @@
+This project classifies Iris flowers into three species—Setosa, Versicolor, and Virginica—using the K-Nearest Neighbors (KNN) algorithm. It uses the classic Iris dataset, with features like sepal length, sepal width, petal length, and petal width, to predict the flower species.
